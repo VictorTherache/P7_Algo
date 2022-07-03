@@ -2,7 +2,7 @@
 ## Table des matières
 1. [Information générale](#general-info)
 2. [Technologies](#technologies)
-3. [Installation](#installation)
+3. [Utilisation](#utilisation)
 
 ### Information générale
 ***
@@ -15,7 +15,7 @@ Technologie utilisé :
 * [Python 64bit](https://www.python.org/downloads/release/python-391/): Version 3.9.1
 
 ```
-## Lancer un algorithme sur un fichier CSV
+## Utilisation
 ***
 Pour lancer un aglorithme, veuillez rentrer la commande ci-dessous dans le terminal:
 ```
