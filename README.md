@@ -19,8 +19,8 @@ Pour lancer un aglorithme, veuillez rentrer la commande ci-dessous dans le termi
 ```
 $ py main.py --algo [ALGORITHME] --file [FICHIER] --loop [INT] (optionnel)
 ```
-[ALGORITHME]: brute ou random ou greedy
-[FICHIER]: Actions ou dataset1 ou dataset2
-[INT]: Nombre positif entier
+[ALGORITHME]: brute ou random ou greedy <br />
+[FICHIER]: Actions ou dataset1 ou dataset2 <br />
+[INT]: Nombre positif entier <br />
 ***
 Merci d'avoir téléchargé ce projet :) 
