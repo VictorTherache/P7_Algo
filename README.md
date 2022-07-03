@@ -13,8 +13,6 @@ Ce programme contient 3 algorithmes, 1 bruteforce et 2 optimisés permettant de 
 ***
 Technologie utilisé :
 * [Python 64bit](https://www.python.org/downloads/release/python-391/): Version 3.9.1
-
-```
 ## Utilisation
 ***
 Pour lancer un aglorithme, veuillez rentrer la commande ci-dessous dans le terminal:
